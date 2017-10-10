@@ -32,6 +32,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HuaizhengZhang/PyTorch4DL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Prerequisites
+1. Proficiency in Python
+   - Familiar with Numpy, matplotlib
+2. Basic knowledge of Linear Algebra (MIT 18.06), Probability (MIT 6.041 / 6.431)
+3. Basic knowledge of Machine Learning (Andrew Ng's Machine Learning)
+<!-- Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
