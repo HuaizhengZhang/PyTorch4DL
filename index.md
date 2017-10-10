@@ -1,7 +1,7 @@
 ## Welcome to PyTorch for Deep Learning
 
 ## Course Aims
-This course aims to help students master PyTorch, a famous Deep Learning framework. This course also provides students deeper concept of Deep Learning. After finishing this course, students can apply what they learn to construct a Deep Learning project by using pure PyTorch code to solve real-world problems.
+This course aims to help students master [PyTorch](www.pytorch.org), a famous Deep Learning framework. This course also provides students deeper concept of Deep Learning. After finishing this course, students can apply what they learn to construct a Deep Learning project by using pure PyTorch code to solve real-world problems.
 
 ## instructors
 - Zhang Huaizheng
@@ -54,7 +54,7 @@ This course aims to help students master PyTorch, a famous Deep Learning framewo
 - Image Classification by using Pytorch (data augmentation, train/val/test)
 
 ### Assignment 2: Tiny ImageNet Visual Recognition Challenge
-- Competation(https://tiny-imagenet.herokuapp.com/)
+- [Competation](https://tiny-imagenet.herokuapp.com/)
 - Use pure Pytorch code to get a higher score
 
 ### Lecture 7: Recurrent Neural Network and LSTM I
@@ -70,7 +70,7 @@ This course aims to help students master PyTorch, a famous Deep Learning framewo
 
 ### Assignment 3: Text detection in image
 - Combine CNN and LSTM
-- Use Pytorch to reconstruct the project(https://github.com/tianzhi0549/CTPN)
+- Use Pytorch to reconstruct the [project](https://github.com/tianzhi0549/CTPN)
 
 ### Lecture 9: Reinforcement Learning in Pytorch
 - Value based methods
