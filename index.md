@@ -10,9 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
               - Comparison of Pytorch, Tensorflow and Keras
               - Dynamic graphs
               - A simple classification by using Tensorflow and Pytorch (Fashion MNIST dataset)
-## Lecture 2
-•	Deep Neural Networks
-o	Basic knowledge of DNN
+
+## Lecture 2: Deep Neural Networks
+              - Basic knowledge of DNN
 o	Backpropagation
 o	Loss function
 o	Optimization: Stochastic Gradient Descent
