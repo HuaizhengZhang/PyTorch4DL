@@ -63,7 +63,7 @@ This course aims to help students master [PyTorch](www.pytorch.org), a famous De
 - Using LSTM in Pytorch
 - Some research application: translation, image caption
 
-### Lecture 8: Apply LSTMs to you audio application [[Tutorial]](zhanghuaizheng.info) [[Slide_8]](zhanghuaizheng.info) [[code]](zhanghuaizheng.info)
+### Lecture 8: Apply LSTMs to your audio application [[Tutorial]](zhanghuaizheng.info) [[Slide_8]](zhanghuaizheng.info) [[code]](zhanghuaizheng.info)
 - LSTM and its variants
 - LSTM in audio area
 - How to construct an audio to text project in Pytorch
