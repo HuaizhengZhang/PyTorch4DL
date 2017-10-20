@@ -57,15 +57,15 @@ This course aims to help students master [PyTorch](www.pytorch.org), a famous De
 - [Competation](https://tiny-imagenet.herokuapp.com/)
 - Use pure Pytorch code to get a higher score
 
-### Lecture 7: Recurrent Neural Network and LSTM I
+### Lecture 7: Recurrent Neural Network and LSTM
 - Simple RNN
 - Basic LSTM
 - Using LSTM in Pytorch
 - Some research application: translation, image caption
 
-### Lecture 8: Recurrent Neural Network and LSTM II
+### Lecture 8: Apply LSTMs to you audio application [[Tutorial]](zhanghuaizheng.info) [[Slide_8]](zhanghuaizheng.info) [[code]](zhanghuaizheng.info)
+- LSTM and its variants
 - LSTM in audio area
-- Word2Vec
 - How to construct an audio to text project in Pytorch
 
 ### Assignment 3: Text detection in image
