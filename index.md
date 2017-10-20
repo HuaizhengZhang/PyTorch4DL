@@ -15,11 +15,7 @@ This course aims to help students master [PyTorch](www.pytorch.org), a famous De
 3. Basic knowledge of Machine Learning (Andrew Ng's Machine Learning)
 
 ## Schedule
-<<<<<<< HEAD
-### Lecture 1: Basic Knowledge of Pytorch [Tutorial](zhanghuaizheng.info) [Slide1](zhanghuaizheng.info) [code](zhanghuaizheng.info)
-=======
-### Lecture 1: Basic Knowledge of Pytorch
->>>>>>> origin/gh-pages
+### Lecture 1: Basic Knowledge of Pytorch [[Tutorial]](zhanghuaizheng.info) [[Slide_1]](zhanghuaizheng.info) [[code]](zhanghuaizheng.info)
 - Comparison of Pytorch, Tensorflow and Keras
 - Dynamic graphs
 - A simple classification by using Tensorflow and Pytorch (Fashion MNIST dataset)
