@@ -1,7 +1,7 @@
 ## Welcome to PyTorch for Deep Learning
 
 ## Course Aims
-This course aims to help students master [PyTorch](www.pytorch.org), a famous Deep Learning framework. This course also provides students deeper concept of Deep Learning. After finishing this course, students can apply what they learn to construct a Deep Learning project by using pure PyTorch code to solve real-world problems.
+This course aims to train students, with the specified prerequisites, to master [PyTorch](http://pytorch.org/), a rising Deep Learning framework, to develop his/her own deep learning projects. This course also provides trainees with a brief introduction to deep learning algorithms. Upon completing this course, the trainee shall be able to construct a deep-learning project by using PyTorch code to solve real-world problems in various application domains.
 
 ## instructors
 - Zhang Huaizheng
@@ -11,10 +11,19 @@ This course aims to help students master [PyTorch](www.pytorch.org), a famous De
 ## Prerequisites
 1. Proficiency in Python
    - Familiar with Numpy, matplotlib
-2. Basic knowledge of Linear Algebra (MIT 18.06), Probability (MIT 6.041 / 6.431)
-3. Basic knowledge of Machine Learning (Andrew Ng's Machine Learning)
+2. Basic knowledge of Linear Algebra [(MIT 18.06)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), Probability [(MIT 6.041 / 6.431)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
+3. Basic knowledge of Machine Learning [(Andrew Ng's Machine Learning)](http://cs229.stanford.edu/syllabus.html)
+
+## FAQ
+- Do I need to bring my laptop?
+- Yes. We have many practice in class. Please remember to bring your own laptop to our class.
+
+- Can I work in groups for the assignment?
+- Yes. At most 3 in a group.
 
 ## Schedule
+### Lecture 0: Introduction of Artificial intelligence (Guest lecture by [Prof Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/))
+
 ### Lecture 1: Basic Knowledge of Pytorch [[Tutorial]](zhanghuaizheng.info) [[Slide_1]](zhanghuaizheng.info) [[code]](zhanghuaizheng.info)
 - Comparison of Pytorch, Tensorflow and Keras
 - Dynamic graphs
@@ -81,6 +90,8 @@ This course aims to help students master [PyTorch](www.pytorch.org), a famous De
 - GAN basic
 - 50 lines GAN in Pytorch
 - DCGAN in Pytorch
+
+### Final project demo
 
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
